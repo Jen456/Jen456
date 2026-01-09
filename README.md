@@ -3,8 +3,6 @@
 Ingeniera en Electrónica y Telecomunicaciones con más de **13 años de experiencia** en redes, telecomunicaciones, sistemas y desarrollo de software.  
 Especializada en **backend, automatización, infraestructura y seguridad**, con enfoque real en requisitos y soluciones funcionales.
 
----
-
 ## 🧠 Perfil profesional
 - Ingeniería aplicada (no solo teoría)
 - Desarrollo orientado a soluciones reales
@@ -12,7 +10,6 @@ Especializada en **backend, automatización, infraestructura y seguridad**, con 
 - Fuerte base en **redes, servidores y sistemas**
 - Atención al detalle y documentación técnica clara
 
----
 
 ## 🛠️ Stack técnico
 
@@ -31,7 +28,6 @@ Especializada en **backend, automatización, infraestructura y seguridad**, con 
 - Servidores: WHM/cPanel, AWS, Azure
 - Virtualización, respaldo y seguridad básica
 
----
 
 ## 📂 Proyectos en este GitHub
 Aquí encontrarás proyectos relacionados con:
@@ -43,7 +39,6 @@ Aquí encontrarás proyectos relacionados con:
 
 Cada repositorio está pensado como **base técnica reutilizable**, no como simple tarea académica.
 
----
 
 ## 🎓 Certificaciones
 - CCNA 1, 2 y 3
@@ -52,7 +47,7 @@ Cada repositorio está pensado como **base técnica reutilizable**, no como simp
 - AutoCAD Eléctrico
 - IT Essentials
 
----
+
 
 ## 📬 Contacto
 📧 Email: jjalava456@hotmail.com  
@@ -60,6 +55,6 @@ Cada repositorio está pensado como **base técnica reutilizable**, no como simp
 💼 LinkedIn: https://www.linkedin.com/in/jenny-alava  
 📍 Ecuador
 
----
+
 
 > *“La ingeniería no se demuestra con títulos, sino con soluciones que funcionan.”*
